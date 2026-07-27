@@ -1,4 +1,3 @@
-# Breakout_Unity
 # Breakout
 
 A recreation of the classic **Breakout** arcade game built with **Unity 6** and **C#** as part of my game development journey and the 20 Games Challenge.
